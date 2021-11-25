@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Iago França
 
-- 🔭 I’m currently working on ...
 - 🌱 Estudando Java
 - 📫 Contate-me no email: iago_tony@hotmail.com
 - 😄 Pronouns: ele/dele
@@ -15,7 +14,6 @@
   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-
 </div>
   
   ##
@@ -28,6 +26,6 @@
 
   
  
-  ![Snake animation](https://github.com/IagoaFr/IagoaFr/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/IagoaFr/IagoaFr/blob/output/github-contribution-grid-snake.svg)
  
 </div>                                                             
