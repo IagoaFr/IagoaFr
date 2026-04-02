@@ -10,8 +10,7 @@
 - 🐍 Estudando e evoluindo em **Python para Dados**
 - 🛠️ Conhecimento em **SQL, Excel, ETL e Power BI (DAX)**
 - 🏗️ Atuação com **Arquitetura de Soluções e dados**
-- 📈 Perfil **Data-Driven**, orientado à tomada de decisão
-
+  
 ---
 
 ### 🧠 Tecnologias
